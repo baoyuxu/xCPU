@@ -1,9 +1,9 @@
 `timescale 1ns/1ps
 
-`include "bus.h"
-`include "../stddef.h"
-`include "../global_config.h"
-`include "../nettype.h"
+`include "../include/bus.h"
+`include "../include/stddef.h"
+`include "../include/global_config.h"
+`include "../include/nettype.h"
 
 `define WORD_ADDR_W__ 27
 

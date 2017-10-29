@@ -42,3 +42,9 @@
 	`endif
 
 `endif
+
+//IF
+//ID
+//EX
+//MEM
+//WB

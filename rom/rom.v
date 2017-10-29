@@ -1,7 +1,7 @@
-`include "../stddef.h"
-`include "../global_config.h"
-`include "../nettype.h"
-`include "rom.h"
+`include "../include/stddef.h"
+`include "../include/global_config.h"
+`include "../include/nettype.h"
+`include "../include/rom.h"
 
 module rom (
 	input wire clk,
@@ -41,3 +41,4 @@ begin
 end
 
 endmodule
+

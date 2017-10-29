@@ -1,7 +1,7 @@
-`include "bus.h"
-`include "../stddef.h"
-`include "../global_config.h"
-`include "../nettype.h"
+`include "../include/bus.h"
+`include "../include/stddef.h"
+`include "../include/global_config.h"
+`include "../include/nettype.h"
 
 module bus_arbiter (
 	input wire clk,
